@@ -1,6 +1,0 @@
-eventform.list:
-  title: 'Event Participation Lists'
-  description: 'example description'
-  parent: system.admin_config_development
-  route_name: eventform.list
-  weight: 100

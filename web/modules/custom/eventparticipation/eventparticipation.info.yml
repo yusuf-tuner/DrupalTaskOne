@@ -1,5 +1,0 @@
-name : Event Participation
-description: Event Participation Forms (2)
-type : module
-package : Custom
-core_version_requirement: ^9 || ^10
