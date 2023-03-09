@@ -1,0 +1,5 @@
+test_form.list:
+  title: 'Participation List'
+  description: 'test participation list'
+  parent: system.admin_config_development
+  route_name: test_form.list

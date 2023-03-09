@@ -1,0 +1,5 @@
+name: EventForm
+type: module
+description: this module save event form data in databse
+package: Custom
+core_version_requirement: ^9 || ^10
