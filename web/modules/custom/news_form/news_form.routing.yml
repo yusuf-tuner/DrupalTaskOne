@@ -1,0 +1,8 @@
+news_form.show:
+  path: 'admin/config/news_form/show'
+  defaults:
+    _title: 'Get news api data'
+    _form: 'Drupal\news_form\Form\NewsForm'
+  requirements:
+    _permission: 'access content'
+    _access: 'TRUE'

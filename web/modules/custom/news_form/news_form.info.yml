@@ -1,0 +1,6 @@
+name: Case 2 api example
+description: case 2 description
+package: Custom
+type: module
+core: 8.x
+core_version_requirement: '^8 || ^9'
